@@ -1,4 +1,4 @@
-package de.telran.homeTasks.task1.convertCurrencyTask5;
+package de.telran.homeTasks.homeTask1.convertCurrencyTask5;
 
 import java.util.Scanner;
 

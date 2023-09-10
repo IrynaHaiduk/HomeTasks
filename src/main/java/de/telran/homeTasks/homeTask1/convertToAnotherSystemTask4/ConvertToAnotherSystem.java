@@ -1,6 +1,4 @@
-package de.telran.homeTasks.task1.convertToAnotherSystemTask4;
-
-import java.util.Scanner;
+package de.telran.homeTasks.homeTask1.convertToAnotherSystemTask4;
 
 public class ConvertToAnotherSystem {
     public static void main(String[] args) {

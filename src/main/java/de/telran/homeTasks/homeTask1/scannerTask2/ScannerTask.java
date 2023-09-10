@@ -1,4 +1,4 @@
-package de.telran.homeTasks.task1.scannerTask2;
+package de.telran.homeTasks.homeTask1.scannerTask2;
 
 import java.util.Scanner;
 

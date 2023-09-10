@@ -1,4 +1,4 @@
-package de.telran.homeTasks.task1.stringTask1;
+package de.telran.homeTasks.homeTask1.stringTask1;
 
 public class Student {
     String string;

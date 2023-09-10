@@ -1,4 +1,4 @@
-package de.telran.homeTasks.task1.calculatorTask3;
+package de.telran.homeTasks.homeTask1.calculatorTask3;
 
 import de.telran.lesson3.Calc;
 
